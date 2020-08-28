@@ -1,3 +1,3 @@
 # Bildverarbeitung
 med. Imageprocessing w. MATLAB
-/provided functions not made by me
+/providedfunctions not made by me
